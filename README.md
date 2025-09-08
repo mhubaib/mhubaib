@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hubaib!
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=0:4F8A8B,100:FFE156&height=180&section=header&text=Hubaib%20%7C%20Software%20Developer&fontSize=40&fontColor=fff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=0:4F8A8B,100:FFE156&height=200&section=header&text=Hubaib%20%7C%20Software%20Developer&fontSize=40&fontColor=fff)
 
 ## 🚀 About Me
 
