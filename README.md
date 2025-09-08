@@ -80,7 +80,9 @@ An educational platform showcasing the evolution of web development, built using
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhubaib&layout=compact" alt="mhubaib's top language and technologies" />
 </p>
+
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhubaib&show_icons=true&theme=radical" alt="mhubaib's GitHub stats" />
 </p>
