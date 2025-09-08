@@ -78,7 +78,7 @@ An educational platform showcasing the evolution of web development, built using
 
 ---
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhubaib&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhubaib&layout=compact" alt="mhubaib's top language and technologies" />
 </p>
 ---
 <p align="center">
