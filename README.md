@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack web developer** with expertise in modern web technologies and a passion for building scalable digital solutions. With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-centric applications that deliver exceptional user experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
+I'm a **Software developer** with expertise in modern web technologies and a passion for building scalable digital solutions. With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-centric applications that deliver exceptional user experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
 
 ---
 
