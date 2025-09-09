@@ -84,7 +84,3 @@ An educational platform showcasing the evolution of web development, built using
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhubaib&show_icons=true&theme=radical" alt="mhubaib's GitHub stats" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=radical&show_icons=true&hide_border=true&layout=compact)
