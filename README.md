@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Muhammad Hubaib!
 
-<svg>
-  <text>
-    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
-  </text>
-</svg>
-
 ![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=0:4F8A8B,100:FFE156&height=200&section=header&text=Hubaib%20%7C%20Software%20Developer&fontSize=40&fontColor=fff)
 
 ## 🚀 About Me
@@ -90,3 +84,7 @@ An educational platform showcasing the evolution of web development, built using
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhubaib&show_icons=true&theme=radical" alt="mhubaib's GitHub stats" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=radical&show_icons=true&hide_border=true&layout=compact)
