@@ -16,7 +16,7 @@
 I'm a **Software developer** with expertise in modern web technologies and a passion for building scalable digital solutions. With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-centric applications that deliver exceptional user experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Amazing+Web+Applications;Creating+Mobile+Solutions;Learning+Every+Day+&+Every+Time&font=Fira%20Code&center=true&width=380&height=30&color=FFE156&vCenter=true&size=16&duration=4000&pause=500" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Amazing+Web+Applications;Creating+Mobile+Solutions;Learning+Every+Day&font=Fira%20Code&center=true&width=380&height=30&color=FFE156&vCenter=true&size=16&duration=4000&pause=500" alt="About Me Typing" />
 </p>
 
 ---
