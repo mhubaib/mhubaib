@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Muhammad Hubaib!
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=4F8A8B&vCenter=true&size=22&duration=3000&pause=1000" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Muhammad Hubaib! 
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80&font=Fira%20Code&width=440&height=45&color=4F8A8B&vCenter=true&size=22&duration=3000&pause=1000" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhubaib&label=Profile%20Views&color=4F8A8B&style=flat-square" alt="Profile Views" />
