@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Muhammad Hubaib!
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Mobile+Developer;Web+Developer)](https://git.io/typing-svg)
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=0:4F8A8B,100:FFE156&height=200&section=header&text=Hubaib%20%7C%20Software%20Developer&fontSize=40&fontColor=fff)
