@@ -107,7 +107,7 @@ An educational platform showcasing the evolution of web development, built using
 **Professional Links:**
 - 🐙 GitHub: [mhubaib](https://github.com/mhubaib)
 - 💼 LinkedIn: [Muhammad Hubaib](https://www.linkedin.com/in/muhammad-hubaib-76b26b370/)
-- 🌐 Professional Portfolio: [muhammad-hubaib](https://www.linkedin.com/in/muhammad-hubaib-76b26b370/)
+- 🌐 Professional Portfolio: [muhammad-hubaib.vercel.app](https://muhammad-hubaib.vercel.app)
 
 **Social Media:**
 - 📘 Facebook: [Muhammad Hubaib](https://web.facebook.com/profile.php?id=61576621349069)
