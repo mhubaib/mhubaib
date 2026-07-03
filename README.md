@@ -91,12 +91,12 @@ I'm a **Software developer** with expertise in modern web technologies, mobile d
 </p>
 
 **Professional Links:**
-- 🐙 GitHub: [mhubaib](https://github.com/mhubaib)
-- 💼 LinkedIn: [Muhammad Hubaib](https://www.linkedin.com/in/muhammad-hubaib-76b26b370/)
-- 🌐 Professional Portfolio: [muhammad-hubaib.vercel.app](https://muhammad-hubaib-v3.vercel.app)
+- 🐙 [GitHub](https://github.com/mhubaib)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hubaib-76b26b370/)
+- 🌐 [Professional Portfolio](https://muhammad-hubaib.my.id)
 
 **Social Media:**
-- 📸 Instagram: [Muhammad Hubaib](https://www.instagram.com/mhuba_ib/)
+- 📸 [Instagram](https://www.instagram.com/mhuba_ib/)
 
 ---
 
