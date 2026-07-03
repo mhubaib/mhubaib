@@ -27,38 +27,24 @@ I'm a **Software developer** with expertise in modern web technologies, mobile d
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcnui&logoColor=fff&style=flat-square)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=fff&style=flat-square)
 
-### Backend
+### Backend & Database
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-4D4D4D?logo=dbeaver&logoColor=fff&style=flat-square)
-
----
-
-## 🌟 Featured Projects
-
-### [Todo List App](https://github.com/mhubaib/todo-list-app)
-A mobile task management application developed with React Native and Firebase. Features include real-time data synchronization, offline capability, push notifications, and user authentication. The app provides a seamless mobile experience for managing daily tasks and reminders.
-
-### [Website Portfolio](https://github.com/mhubaib/website-portofolio-react)
-My personal portfolio built with React.js, showcasing my work and skills. Features responsive design and interactive project demonstrations.
-
-### [Sistem Kantin Digital](https://github.com/mhubaib/sistem-kantin-digital)
-A comprehensive web-based canteen management system built with Laravel, TailwindCSS, JavaScript, and PostgreSQL. This full-stack solution features real-time order tracking, inventory management, digital payments integration, and detailed reporting dashboard for canteen administrators.
-
-### [Weather App](https://github.com/mhubaib/weather-app)
-A responsive weather application that provides real-time weather updates using OpenWeatherMap API. Built with React and features location-based forecasts and interactive weather maps.
-
-### [Website History](https://github.com/mhubaib/website-history-html)
-An educational platform showcasing the evolution of web development, built using pure HTML/CSS. Features interactive timeline and demonstrations of various web development eras.
 
 ---
 
